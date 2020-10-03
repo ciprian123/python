@@ -150,4 +150,4 @@ def most_common_letter(string):
 # EX 10 ====================================================================
 def count_words(string):
     """  return number of words, words being delimited by a single space """
-    return string.count(' ')git
+    return string.count(' ') + 1
